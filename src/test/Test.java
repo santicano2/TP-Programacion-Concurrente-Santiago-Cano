@@ -23,8 +23,8 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        // Genera un arreglo aleatorio de 10 millones de elementos
-        int[] aux = generarArrayAleatorio(50_000_000, 1, 9000);
+        // Genera un arreglo aleatorio de cantidad de elementos
+        int[] aux = generarArrayAleatorio(10_000, 1, 9000);
 
         // Crea copias del arreglo para cada método de ordenamiento
         int[] A = Arrays.copyOf(aux, aux.length); // Para MergeSort secuencial

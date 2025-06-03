@@ -16,5 +16,5 @@ Búsqueda binaria, QuickSort, ShellSort, CountingSort, RadixSort, BucketSort, Bi
 
 ## Links sobre el TP
 
-- 📄 PDF: [Trabajo Práctico Programacion Concurrente]()
-- 📹 Video : [Video explicativo del trabajo práctico]()
+- 📄 PDF: [Trabajo Práctico Programacion Concurrente](TP-Concurrente-Santiago-Cano.pdf)
+- 📹 Video : [Video explicativo del trabajo práctico](https://youtu.be/AV3iR2vv2YM)
